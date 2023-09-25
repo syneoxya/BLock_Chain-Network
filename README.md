@@ -1,2 +1,2 @@
-# BLoCck_ChAIn_NeTwOrK
+# Block_chain_network
 Block_chain_project
